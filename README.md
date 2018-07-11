@@ -1,7 +1,6 @@
 # German_Credit
 
-This repository contains IPython Notebook with sample code, implementing a binary classifier for the German Credit risk datasets which can be found at https://onlinecourses.science.psu.edu/stat857/sites/onlinecourses.science.psu.edu.stat857/files/german_credit.csv
-
+This repository contains IPython Notebook with sample code, implementing a binary classifier for the German Credit risk datasets.
 
 You can view "German_Credit.ipynb" directly on github, or clone the repository, install dependencies listed in the notebook and play with code locally.
 
